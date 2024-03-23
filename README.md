@@ -23,6 +23,10 @@ conda activate llamacpu
 pip install -r requirements.txt
 ```
 
+```bash
+python app.py
+```
+
 ### Download the quantize model from the link provided in model folder & keep the model in the model directory:
 
 ```bash
